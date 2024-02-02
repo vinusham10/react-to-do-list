@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+}
+.main{
+  background-color: aquamarine;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
